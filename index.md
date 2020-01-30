@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/jiayenlai/jiayenlai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I’m a PhD student in Geography, at the University of Edinburgh. I’m interested in understanding how various actors influence the processes and outcomes of environmental management. My current project looks at the role of intermediary in the environmental screening process in Indonesia. Read more about my project in [English](https://jiayenlai.github.io/current-project) or in [Indonesian](https://jiayenlai.github.io/current-projec-id).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**I’m particularly interested on tropical deforestation and the power dynamics in land-use decision making. I aim to seek effective and affordable ways to reduce conservation-development conflicts and improve forest management.**
 
-### Markdown
+insert picture: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Before starting the PhD, I worked as a sort-of intermediary in between of government, NGO and private sectors for over 7 years in Malaysia. The experience of working with different stakeholders has largely shaped my perspective on environmental management. I believe that equal opportunities to political and social resources is the key to achieving just and sustainable development. 
 
-```markdown
-Syntax highlighted code block
+**I worked as a journalist, then a strategy manager of Corporate Social Responsibility (CSR). I helped set up and operate CSR for companies, design marketing strategies for NGOs, connect companies and NGOs to state funds, and organise public engagement events.**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiayenlai/jiayenlai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to get in touch for any enquiries.
